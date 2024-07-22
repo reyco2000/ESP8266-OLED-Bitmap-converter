@@ -1,3 +1,11 @@
+########################################################################
+# BITMAP CONVERVER FOR EMBEEDED
+# Useful to create C bitmap array for SD1306
+# Allows to manipulate the images and once ready to create the c Array
+# Created by Reinaldo Torres reyco2000@gmail.com
+# V0.3 July 2024
+##########################################################################
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk, ImageOps
